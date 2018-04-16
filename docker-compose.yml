@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  vegeta:
+    image: 'nlsun/vegeta'
+    volumes:
+      - './logs:/var/log/vegeta'
