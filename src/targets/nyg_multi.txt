@@ -1,0 +1,10 @@
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=coronel%202317%20providencia&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=los%20capulies%20177%202317%20talcahuano&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=san%20sebastian%202932%20las%20condes&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=enrique%20foster%20sur%20110%20las%20condes&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=rio%20allipen%205133%20talchuano&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=libertad%20750%20iquique&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=barros%20arana%20111%20concepcion&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=colon%202376%20santiago&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=coronel%202315%20providencia&country=chile
+GET https://services.mapcity.com/nyg/v1/geocoding.json?access_token=0dc1a6690b26f9f1e446a72c87e26062&address=los%20capulies%20145%20talcahuano&country=chile
